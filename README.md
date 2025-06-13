@@ -30,6 +30,10 @@ Alongside my foundational experience, I’m:
 - 🧪 Fine-tuning my cybersecurity skills through **Hack The Box**  
 - 📊 Learning data analytics to understand trends and behavior at scale  
 
+## 📄 Resume
+
+  - Want a quick overview of my skills and experience?  
+  👉 [Download My Resume](https://github.com/j-zilla210/ZillaCOGSEC/blob/main/joshuaovalle_resume.pdf)
 ---
 
 ## 💡 Why I Care
