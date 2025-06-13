@@ -37,8 +37,6 @@ I want to help parents, educators, and curious technologists understand:
 ## 🔍 What You’ll (eventually) Find Here
 
 This repo is a growing resource that explores:
-- 📱 Giving kids phones — pros, cons, and boundaries
-- 🧠 Cognitive risks of misinformation in early development
 - 🕵️ Social engineering tactics aimed at children (and how to defend against them)
 - 🛠️ Tools and habits to build healthy tech relationships
 - 📚 Curated research, articles, and resources for parents and professionals
@@ -47,11 +45,15 @@ This repo is a growing resource that explores:
 
 ## 🔜 In Progress
 
-- ✅ Misinformation & Kids — report outline  
 - ⌛ Educational breakdowns of ad models, gamification, and persuasive design  
 - 📘 Curated reading list on cognitive security and digital literacy  
 
 ---
+
+## ✅ Available Blog posts
+
+- 📱 [Early Childhood Technology: Phones](https://github.com/j-zilla210/ZillaCOGSEC/blob/main/When%20Kids%20and%20tech%20collide.md)
+- 🧠 [The Internet and Kids – From a Cognitive Security Perspective](https://github.com/j-zilla210/ZillaCOGSEC/blob/main/Misinformation.md)
 
 ## 🧭 Long-Term Goal
 
