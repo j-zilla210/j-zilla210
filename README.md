@@ -2,6 +2,14 @@
 
 Welcome to my evolving research and exploration into **cognitive security**—specifically as it relates to **children and their interaction with technology**. This project is a personal and professional pursuit aimed at breaking down the influence of **misinformation**, **social engineering**, and **digital exposure** on developing minds.
 
+ ## 💻 Repo links
+  - [My personal Blog for Cognitive Security](https://github.com/j-zilla210/ZillaCOGSEC) 
+
+**Conducting research on cognitive security risks, including misinformation, social engineering, and emerging AI threats. Currently, the focus is from a parental perspective, based on recent personal experiences.**
+  - [HackTheBox lab breakdowns](https://github.com/j-zilla210/Hack-the-box-SOC-analyst)
+
+**I will be sharing insights on the labs I complete on HackTheBox to deepen my understanding of the subject matter and the provided exercises.**
+
 ---
 
 ## 👋 About Me
@@ -9,7 +17,12 @@ Welcome to my evolving research and exploration into **cognitive security**—sp
 I hold a **Bachelor's in Cybersecurity and Information Assurance**, and I’ve recently completed a career training program in **Information Technology Security and Administration**. I’m also certified in:
 
 - 📜 **CompTIA Security+**
+- 📜 **CompTIA A+**
 - 🏢 **Microsoft Certified: Security, Compliance, and Identity Fundamentals**
+- 🏢 **Microsoft Certified: Azure AI fundamentals**
+- 🏢 **Microsoft Certified: Azure Fundamentals**
+- 🐧 **Linux Professional Institute Certification (LPIC1)**
+- 🦅 **NSA/DHS Cyber Defense Education Certification**
 
 Alongside my foundational experience, I’m:
 
